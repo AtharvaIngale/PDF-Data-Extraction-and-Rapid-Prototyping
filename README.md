@@ -13,6 +13,13 @@
 - Use CSS for minimal styling.
 - Display the extracted data in a user-friendly format on the webpage.
 
+### How to Run:
+1. Navigate to the directory containing app.py.
+2. Run python app.py in the terminal.
+3. Open your web browser and go to http://127.0.0.1:5000/.
+4. Upload a PDF file using the provided form.
+5. The extracted data will be displayed on the webpage.
+
 ### Challenges:
 - **Handling PDF Data:** Extracting data from PDF files can be challenging, especially when dealing with complex layouts and structures. In this example, we assume a simple structure for the PDF.
 - **File Upload:** Managing file uploads and processing them securely on the backend requires careful consideration, especially in a production environment. We'll keep it simple for this example.
